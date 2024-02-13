@@ -1,5 +1,8 @@
 package hello.upload.domain;
 
+import lombok.Data;
+
+@Data
 public class UploadFile {
 
     //업로드 된 파일 이름
